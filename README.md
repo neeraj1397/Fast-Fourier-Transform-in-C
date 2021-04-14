@@ -1,7 +1,7 @@
 # Fast-Fourier-Transform-in-C
 This repository contains the C code for ARM Implementation of FFT on Zynq-7000 APSoC from Xilinx.
 
-Abstract
+Abstract:
 Nowadays, the development of the Fast Fourier Transform (FFT) remains of a great importance due to its substantial role in the field of signal processing. 
 In this project, a radix-2 algorithm of the FFT, 8 point is proposed and its software implementation on the Zynq 7000 all programmable SoC is discussed. Complete project is carried out in the Xilinx SDK and the code is cross-compiled on the ARM cortex A9 processor present in the Zynq SoC. The Xilinx Software Development Kit (SDK)
 is an Integrated Development Environment (IDE) for development of embedded software applications targeted towards Xilinx embedded processors. The SDK provides
