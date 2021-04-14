@@ -1,5 +1,5 @@
 # Fast-Fourier-Transform-in-C
-This repository contains the C++ code for ARM Implementation of FFT on Zynq-7000 APSoC from Xilinx.
+This repository contains the C code for ARM Implementation of FFT on Zynq-7000 APSoC from Xilinx.
 
 Abstract
 Nowadays, the development of the Fast Fourier Transform (FFT) remains of a great importance due to its substantial role in the field of signal processing. 
